@@ -1,20 +1,10 @@
 # Credentials to login
 
-Admin Credentials:
-Email: rahulnagir@gmail.com
-Password: admin
 
-Manager Credentials:
-Email: rahulnagireddi97@gmail.com
-Password: manager
 
 User Credentials:
 Email: sasikalyan97@gmail.com
 Password: user
-
-Visitor Credentials:
-Email: rahulnagire9618@gmail.com
-Password: visitor
 
 
 # Getting Started with Create React App
